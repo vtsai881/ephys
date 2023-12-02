@@ -1,9 +1,7 @@
 # ephys-analysis
 A collection of annotated scripts for analyzing ephys data.
 
-![image](https://github.com/vtsai881/ephys/assets/87097162/ff7ad4db-0443-444f-b010-1f5cfb29f741) ![image](https://github.com/vtsai881/ephys/assets/87097162/3b09c187-7a35-4560-a3d4-4f633074949f)
-
-
+![image](https://github.com/vtsai881/ephys/assets/87097162/ff7ad4db-0443-444f-b010-1f5cfb29f741)
 
 # table of contents
 - [cluster neurons based on their spiking properties](https://github.com/vtsai881/ephys/blob/main/notebooks/ccstep_clustering.ipynb)
