@@ -1,5 +1,5 @@
 # ephys-analysis
-A collection of annotated scripts for analyzing ephys data.
+A collection of annotated scripts for analyzing ephys data mainly built around [pyABF](https://github.com/swharden/pyABF) and [eFEL](https://github.com/BlueBrain/eFEL).
 
 ![image](https://github.com/vtsai881/ephys/assets/87097162/ff7ad4db-0443-444f-b010-1f5cfb29f741)
 
