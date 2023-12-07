@@ -1,7 +1,7 @@
 # ephys-analysis
 A collection of annotated scripts for analyzing ephys data mainly built around [pyABF](https://github.com/swharden/pyABF) and [eFEL](https://github.com/BlueBrain/eFEL).
 
-![image](https://github.com/vtsai881/ephys/assets/87097162/ff7ad4db-0443-444f-b010-1f5cfb29f741)
+![image](https://github.com/vtsai881/ephys/assets/87097162/4e6e26d2-6372-4c4b-84a0-6d5c0bc5e634)
 
 # table of contents
 - [cluster neurons based on their spiking properties](https://github.com/vtsai881/ephys/blob/main/notebooks/ccstep_clustering.ipynb)
